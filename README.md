@@ -1,2 +1,2 @@
-# placement
-A mobile site generator for local businesses.
+# About Placement
+A mobile site theme for local businesses.
